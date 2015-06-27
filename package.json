@@ -1,0 +1,25 @@
+{
+  "name": "crossword-gen",
+  "version": "1.0.0",
+  "description": "I built this crossword puzzle to provide an enhanced, more intuitive user experience with javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jweisbeck/Crossword.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jweisbeck/Crossword/issues"
+  },
+  "homepage": "https://github.com/jweisbeck/Crossword#readme",
+  "dependencies": {
+    "babelify": "^6.1.2",
+    "immutable": "^3.7.4",
+    "morearty": "^0.7.21",
+    "react": "^0.13.3"
+  }
+}
