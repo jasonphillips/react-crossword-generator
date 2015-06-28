@@ -27562,7 +27562,6 @@ function Crossword(words_in, clues_in) {
 
         // find a good random position
         var best = best_intersections[Math.floor(Math.random() * best_intersections.length)];
-        console.log(best);
         return best;
     };
 
